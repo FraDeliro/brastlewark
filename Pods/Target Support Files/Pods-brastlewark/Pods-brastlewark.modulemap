@@ -1,0 +1,6 @@
+framework module Pods_brastlewark {
+  umbrella header "Pods-brastlewark-umbrella.h"
+
+  export *
+  module * { export * }
+}

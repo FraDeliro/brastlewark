@@ -1,0 +1,6 @@
+framework module Pods_brastlewarkUITests {
+  umbrella header "Pods-brastlewarkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
